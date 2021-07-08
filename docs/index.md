@@ -61,7 +61,6 @@ __Pinnacle Management Group__,
 
 - Proof of concept development of dashboards using client's corporate data.
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
