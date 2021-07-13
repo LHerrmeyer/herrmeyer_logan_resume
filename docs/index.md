@@ -31,8 +31,8 @@ Competent in R with dyplr and ggplot, Python with pandas, SQL, and Excel. Some e
 `April 2021 - July 2021`
 __Good2Go__
 
-- Worked on a Convolutional Neural Network in Python for identifying the number of lanes in a road from images.
-- Built a Python program for users to download and label images from the Google Street View API from automatically generated addresses.
+- Worked on a convolutional neural network in Python for identifying the number of lanes in a road from images.
+- Built a program for users to download and label images for training the neural network.
 
 ### Experiential Learning Projects
 
