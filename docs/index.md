@@ -32,7 +32,7 @@ Competent in R with dyplr and ggplot, Python with pandas, SQL, and Excel. Some e
 __Good2Go__
 
 - Worked on a convolutional neural network in Python for identifying the number of lanes in a road from images.
-- Built a program for users to download and label images for training the neural network.
+- Built a Python program for users to label and automatically download images for training the neural network.
 
 ### Experiential Learning Projects
 
