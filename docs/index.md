@@ -5,7 +5,7 @@ title: Logan Herrmeyer's Resume
 # Logan Herrmeyer
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="loganherrmeyer@outlook.com">loganherrmeyer@outlook.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/LHerrmeyer">GitHub</a>
