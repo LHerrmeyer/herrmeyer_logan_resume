@@ -22,7 +22,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 ## Skills
 
-Competent in R, Python, SQL, C.
+Competent in R, Python, SQL, and Excel. Some experience with Tableau.
 
 ## Related Experience
 
