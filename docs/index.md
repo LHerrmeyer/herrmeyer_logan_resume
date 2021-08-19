@@ -5,7 +5,7 @@ title: Logan Herrmeyer's Resume
 # Logan Herrmeyer
 
 <div id="webaddress">
-<a href="loganherrmeyer@outlook.com">mailto:loganherrmeyer@outlook.com</a>
+<a href="mailto:loganherrmeyer@outlook.com">loganherrmeyer@outlook.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/logan-herrmeyer-ba2242204/">LinkedIn</a>
 | <a href="https://github.com/LHerrmeyer">GitHub</a>
