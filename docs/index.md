@@ -26,6 +26,14 @@ Competent in R with dyplr and ggplot, Python with pandas and machine learning wi
 
 ## Related Experience
 
+### Data Science Society Team Leader
+
+`September 2021-Present`
+__Beehive Credit Union__
+
+- Gathered data from a variety of sources to determine where the company should open a new branch.
+- Wrangled data using R and visualised data using ggplot and QGIS.
+
 ### Data Science Society Consulting Team
 
 `April 2021 - July 2021`
