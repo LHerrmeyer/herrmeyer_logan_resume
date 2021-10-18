@@ -24,6 +24,15 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 Competent in R with dyplr and ggplot, Python with pandas and machine learning with sklearn, SQL, and Excel. Some experience with Tableau.
 
+## Employment History
+
+### Data Science Tutors
+`September 2021-Present`
+__Brigham Young University Idaho__
+
+- Helped students with Data Science assignments
+- Helped students clean, graph, analyze, and predict data in both Python and R
+
 ## Related Experience
 
 ### Data Science Society Team Leader
