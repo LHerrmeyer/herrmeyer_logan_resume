@@ -26,7 +26,8 @@ Competent in R with dyplr and ggplot, Python with pandas and machine learning wi
 
 ## Employment History
 
-### Data Science Tutors
+### Data Science Tutor
+
 `September 2021-Present`
 __Brigham Young University Idaho__
 
