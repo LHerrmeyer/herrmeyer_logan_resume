@@ -33,7 +33,7 @@ Competent in R with dyplr and ggplot, Python with pandas and machine learning wi
 __Brigham Young University Idaho__
 
 - Helped students with Data Science assignments.
-- Helped students clean, graph, analyze, and predict data in both Python and R.
+- Instructed students how to clean, graph, analyze, and predict data in both Python and R.
 
 ## Related Experience
 
