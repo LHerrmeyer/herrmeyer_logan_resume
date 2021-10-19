@@ -15,9 +15,10 @@ title: Logan Herrmeyer's Resume
 
 ## Education
 
-`April 2020 - Expected Graduation July 2022` (B.S. in Data Science)
+`April 2020 - Expected Graduation July 2022`
 __Brigham Young University Idaho__, Rexburg, ID
 
+- Data Science Major (Bachelor of Science program)
 - 3.7 GPA
 
 ## Skills
