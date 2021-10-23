@@ -19,7 +19,7 @@ title: Logan Herrmeyer's Resume
 __Brigham Young University Idaho__, Rexburg, ID
 
 - Data Science Major (Bachelor of Science program)
-- 3.7 GPA
+- 3.8 GPA
 
 ## Skills
 
