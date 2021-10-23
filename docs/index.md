@@ -23,7 +23,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 ## Skills
 
-Proficient in R with dyplr and ggplot, Python with pandas and machine learning with sklearn, SQL, and Excel. Some experience with Tableau.
+Proficient in R with dyplr and ggplot, Python with pandas and machine learning with sklearn, SQL, Excel, PowerBI, and Tableau.
 
 ## Employment History
 
