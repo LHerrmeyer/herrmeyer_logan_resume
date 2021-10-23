@@ -33,7 +33,7 @@ Proficient in R with dyplr and ggplot, Python with pandas and machine learning w
 __Festival Foods__
 
 - Worked to make sure enough product was on the shelves to serve customers.
-- Helped customers find items in the store and helped them transport items to their vehicles.
+- Helped customers find items in the store.
 
 ### Data Science Tutor
 
