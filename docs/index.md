@@ -27,6 +27,14 @@ Proficient in R with dyplr and ggplot, Python with pandas and machine learning w
 
 ## Employment History
 
+### Stocker
+
+`June 2019-April 2021`
+__Festival Foods__
+
+- Worked to make sure enough product was on the shelves to serve customers.
+- Helped customers find items in the store and helped them transport items to their vehicles.
+
 ### Data Science Tutor
 
 `September 2021-Present`
