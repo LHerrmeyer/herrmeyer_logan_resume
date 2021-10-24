@@ -22,7 +22,6 @@ __Brigham Young University Idaho__, Rexburg, ID
 - 3.8 GPA
 
 ## Skills
-<br>
 - Proficient in:
   - R with dyplr and ggplot
   - Python with pandas and machine learning with scikit-learn
