@@ -30,7 +30,7 @@ __Brigham Young University Idaho__, Rexburg, ID
   - SQL and Excel
 - Competent in:
   - PowerBI and Tableau
-- Spanish — Proficient
+- Spanish — Conversational
 
 ## Employment History
 
