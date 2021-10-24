@@ -23,24 +23,27 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 ## Skills
 
-- R with dyplr and ggplot
-- Python with pandas and machine learning with sklearn
-- SQL and Excel
-- Competent with PowerBI and Tableau
+- Proficient in:
+  - R with dyplr and ggplot
+  - Python with pandas and machine learning with scikit-learn
+  - C, Java, and JavaScript
+  - SQL and Excel
+- Competent in:
+  - PowerBI and Tableau
 
 ## Employment History
 
 ### Stocker
 
-`June 2019-April 2021`
+`June 2019 - April 2021`
 __Festival Foods__
 
 - Worked to make sure enough product was on the shelves to serve customers.
-- Helped customers find items in the store.
+- Helped and communicated with customers find items in the store.
 
 ### Data Science Tutor
 
-`September 2021-Present`
+`September 2021 - Present`
 __Brigham Young University Idaho__
 
 - Helped students with Data Science assignments.
@@ -50,7 +53,7 @@ __Brigham Young University Idaho__
 
 ### Data Science Society Team Leader
 
-`September 2021-Present`
+`September 2021 - Present`
 __Beehive Credit Union__
 
 - Gathered data from a variety of sources to determine where the company should open a new branch.
