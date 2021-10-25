@@ -52,9 +52,10 @@ __Brigham Young University Idaho__
 ## Awards
 
 ### Eagle Scout
+__Wildlife Science Center__
 `July 2019`
 
-- Led a project to educate people about wildlife conservation and a food drive for animals.
+- Led a food drive for animals at the WSC and educated people about wildlife conservation.
 - Organized the project months in advance and gathered and led a team to run the project smoothly. 
 
 ## Related Experience
