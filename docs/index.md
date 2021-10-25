@@ -53,9 +53,8 @@ __Brigham Young University Idaho__
 
 ### Eagle Scout
 `July 2019`
-__Wildlife Science Center__
 
-- Led a large project to educate people about wildlife conservation and to raise food to feed animals.
+- Led a large project to educate people about wildlife conservation and to raise food to feed animals at a local wildlife research center.
 - Organized the project months in advance and gathered a team to run the project smoothly. 
 
 ## Related Experience
