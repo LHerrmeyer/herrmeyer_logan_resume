@@ -21,6 +21,15 @@ __Brigham Young University Idaho__, Rexburg, ID
 - Data Science Major (Bachelor of Science program)
 - 3.8 GPA
 
+## Awards
+
+### Eagle Scout
+`July 2019`
+__Wildlife Science Center__
+
+- Led a large project to educate people about wildlife conservation and to raise food to feed animals.
+- Organized the project months in advance and gathered a team to run the project smoothly. 
+
 ## Skills
 - Proficient in:
   - R with dyplr and ggplot
