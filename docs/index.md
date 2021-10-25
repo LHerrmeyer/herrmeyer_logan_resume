@@ -54,7 +54,7 @@ __Brigham Young University Idaho__
 ### Eagle Scout
 `July 2019`
 
-- Led a large project to educate people about wildlife conservation and a food drive for animals.
+- Led a project to educate people about wildlife conservation and a food drive for animals.
 - Organized the project months in advance and gathered and led a team to run the project smoothly. 
 
 ## Related Experience
