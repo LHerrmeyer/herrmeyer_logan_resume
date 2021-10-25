@@ -55,7 +55,7 @@ __Brigham Young University Idaho__
 `July 2019`
 
 - Led a large project to educate people about wildlife conservation and to raise food to feed animals at a local wildlife research center.
-- Organized the project months in advance and gathered a team to run the project smoothly. 
+- Organized the project months in advance and gathered and led a team to run the project smoothly. 
 
 ## Related Experience
 
