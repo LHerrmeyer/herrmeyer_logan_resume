@@ -33,14 +33,6 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 ## Employment History
 
-### Stocker
-
-`June 2019 - April 2021`
-__Festival Foods__
-
-- Worked to make sure enough product was on the shelves to serve customers.
-- Helped and communicated with customers find items in the store.
-
 ### Data Science Tutor
 
 `September 2021 - December 2021`
