@@ -24,7 +24,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 ## Skills
 - Proficient in:
   - R with dyplr and ggplot
-  - Python with pandas and machine learning with scikit-learn
+  - Python with pandas and machine learning with scikit-learn and TensorFlow
   - C, Java, and JavaScript
   - SQL and Excel
 - Competent in:
