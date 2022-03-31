@@ -43,20 +43,21 @@ __Festival Foods__
 
 ### Data Science Tutor
 
-`September 2021 - Present`
+`September 2021 - December 2021`
 __Brigham Young University Idaho__
 
 - Helped students with Data Science assignments.
 - Instructed students how to clean, graph, analyze, and predict data in both Python and R.
 
-## Awards
+### Data Science Intern
 
-### Eagle Scout
-__Wildlife Science Center__
-`July 2019`
+`January 2022 - April 2022`
+__Medtronic__
 
-- Led a food drive for animals at the WSC and educated people about wildlife conservation.
-- Organized the project months in advance and gathered and led a team to run the project smoothly. 
+- Migrated a website smoothly and efficiently from SharePoint 2010 to SharePoint Online.
+- Updated the website with new features using JavaScript, HTML, and CSS.
+- Wrote scripts in Python to run simulations on a Linux HPC cluster and process their output data.
+- Shared results with simulation with the Machine Learning team and discussed how to best use the data for prediction.
 
 ## Related Experience
 
@@ -87,6 +88,6 @@ __US Voting Data__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2022 -->
 
 
