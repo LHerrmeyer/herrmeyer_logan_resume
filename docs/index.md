@@ -49,7 +49,7 @@ __Medtronic__
 - Migrated a website smoothly and efficiently from SharePoint 2010 to SharePoint Online.
 - Updated the website with new features using JavaScript, HTML, and CSS.
 - Wrote scripts in Python to run simulations on a Linux HPC cluster and process their output data.
-- Shared results of the simulations with the Machine Learning team and discussed how to best use the data for prediction.
+- Shared results of the simulations with the ML team and discussed how to best use the data for prediction.
 
 ## Related Experience
 
